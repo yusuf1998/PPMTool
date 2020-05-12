@@ -1,0 +1,13 @@
+package io.yusufMantap.ysftool;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class YsftoolApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(YsftoolApplication.class, args);
+	}
+
+}
