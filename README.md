@@ -1,1 +1,1 @@
-echo "# PPMTool Yusuf">>
+echo # PPMTool Yusuf
